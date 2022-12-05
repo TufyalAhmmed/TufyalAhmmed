@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TufyalAhmmed
-- 👀 I’m interested in Software Quality & Assurence Engineering 
-- 🌱 I’m currently learning Mobile Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-🔭 I’m currently working on Quality Up Services as a SQA Engineer
+-🌱 I’m currently learning SQA
+-💬 Ask me about SQA related question or any Tech related issues
+-📫 How to reach me: tufyalahmmed00@gmail.com
 
 <!---
 TufyalAhmmed/TufyalAhmmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
