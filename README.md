@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TufyalAhmmed
 -🔭 I’m currently working at Gain Solutions Ltd. as a SQA Engineer.
--🌱 I’m currently practicing SQA & Test Automation using different framework.
--💬 Ask me about SQA related question or any Tech related issues.
+-🌱 I’m currently practicing SQA & Test Automation using different framework & tools.
+-💬 Ask me about SQA related questions or any Tech related issues.
 -📫 How to reach me: tufyalahmmed509@gmail.com or tufyal15-133@diu.edu.bd
 
 <!---
